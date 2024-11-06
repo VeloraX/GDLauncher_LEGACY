@@ -41,7 +41,8 @@
   </details>
 
 <p align="center">
-    <img width="800" height="auto" src="https://gdevs.io/showcase.jpg" alt="GDLauncher" />
+    <img width="800" height="auto" src="![image](https://github.com/user-attachments/assets/efed055f-6b63-4052-91ce-8939afda0c10)
+" alt="GDLauncher" />
 </p>
 
 ## 🎮 What is GDLauncher
